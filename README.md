@@ -56,15 +56,6 @@ current_goals = {
 ### **⚙️ Инструменты разработки**
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
-### **🎯 Ключевые компетенции**
-| **Направление** | **Навыки** |
-|----------------|------------|
-| **📋 Предобработка данных** | Очистка, нормализация, обработка пропусков, feature engineering |
-| **🔍 Аналитика** | EDA, статистический анализ, выявление закономерностей |
-| **🤖 Машинное обучение** | Классификация, регрессия, кластеризация, валидация моделей |
-| **📊 Визуализация** | Создание дашбордов, аналитических отчетов, бизнес-презентаций |
-| **🗃️ Работа с данными** | SQL-запросы, оптимизация, работа с большими объемами данных |
