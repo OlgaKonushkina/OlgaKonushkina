@@ -31,12 +31,13 @@ current_goals = {
 ---
 ## 🛠 Технологический стек
 
-**Анализ данных и ML:**
-- 🐍 Python (Pandas, NumPy, Scikit-learn)
-- 📊 Визуализация (Matplotlib, Seaborn, Plotly)
+**📊 Data Science & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Базы данных:**
-- 🗄️ SQL, PostgreSQL
-
-**Инструменты:**
-- ⚙️ Jupyter Notebook, VS Code, Git
+**📈 Визуализация данных**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
