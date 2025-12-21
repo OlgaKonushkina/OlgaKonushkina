@@ -64,3 +64,4 @@
 - [**A/B тестирование**](https://github.com/OlgaKonushkina/Data-Science/tree/main/Project_A_B_test) - Статистический анализ результатов A/B теста.
 - [**Прогнозирование длительности поездок в такси**](https://github.com/OlgaKonushkina/Data-Science/tree/main/Project_5_Taxi_duration) - Регрессионный анализ для предсказания времени поездки.
 - [**Прогнозирование зарплат в IT (Стажировка)**](https://github.com/OlgaKonushkina/DS_IT_salary_predict) — Разработка инструмента для оценки уровня заработной платы ИТ-специалистов на основе навыков, опыта и других параметров с выдачей рекомендаций по повышению конкурентоспособности.
+- [**Гибридная система рекомендаций**](https://github.com/OlgaKonushkina/RecommendationSystem) — Гибридная система рекомендаций, сочетающая CatBoostRanker и item-based рекомендации (Annoy).
